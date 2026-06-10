@@ -2,7 +2,7 @@
 
 ## 📸 Dashboard Preview
 
-![Motorola Sales Dashboard](Images/dashboard-preview.png)
+![Motorola Sales Dashboard preview]([Images/dashboard-preview.png](https://github.com/deepsharma28/Motorola-Sales-Dashboard-PowerBI/blob/main/p1.pbit))
 
 ---
 
